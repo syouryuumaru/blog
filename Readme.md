@@ -1,1 +1,0 @@
-wjisia[odja's]

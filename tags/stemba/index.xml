@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vno-Hugo</title>
-    <link>https://syouryuumaru.github.io/blog/</link>
-    <description>Recent content on Vno-Hugo</description>
+    <title>stemba on Vno-Hugo</title>
+    <link>https://syouryuumaru.github.io/blog/tags/stemba/</link>
+    <description>Recent content in stemba on Vno-Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Aug 2021 16:02:08 +0700</lastBuildDate><atom:link href="https://syouryuumaru.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 16:02:08 +0700</lastBuildDate><atom:link href="https://syouryuumaru.github.io/blog/tags/stemba/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Komponen Aktif dan Komponen Pasif Elektronika</title>
       <link>https://syouryuumaru.github.io/blog/posts/tes/</link>
