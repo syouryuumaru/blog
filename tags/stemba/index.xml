@@ -1,37 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>stemba on Vno-Hugo</title>
+    <title>Stemba on Vno Hugo</title>
     <link>https://syouryuumaru.github.io/blog/tags/stemba/</link>
-    <description>Recent content in stemba on Vno-Hugo</description>
+    <description>Recent content in Stemba on Vno Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Thu, 26 Aug 2021 16:02:08 +0700</lastBuildDate><atom:link href="https://syouryuumaru.github.io/blog/tags/stemba/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Komponen Aktif dan Komponen Pasif Elektronika</title>
-      <link>https://syouryuumaru.github.io/blog/posts/tes/</link>
+      <link>https://syouryuumaru.github.io/blog/2021/08/komponen-aktif-dan-komponen-pasif-elektronika/</link>
       <pubDate>Thu, 26 Aug 2021 16:02:08 +0700</pubDate>
       
-      <guid>https://syouryuumaru.github.io/blog/posts/tes/</guid>
+      <guid>https://syouryuumaru.github.io/blog/2021/08/komponen-aktif-dan-komponen-pasif-elektronika/</guid>
       <description>Komponen elektronika adalah elemen dasar yang digunakan untuk membentuk suatu rangkaian elektronika dan biasanya dikemas dalam bentuk diskrit dengan dua atau lebih terminal penghubung. Setiap komponen elektronika memiliki fungsinya masing-masing dalam suatu rangkaian elektronika, ada yang berfungsi sebagai penghambat, ada yang berfungsi sebagai penguat, ada yang sebagai penghantar, ada juga yang berfungsi sebagai penyaring dan sebagai pengendali. Komponen-komponen elektronika tersebut juga memiliki nilai dan tipenya masing-masing sehingga dapat menjalankan fungsinya sesuai dengan keinginan para perancang rangkaian elektronika.</description>
-    </item>
-    
-    <item>
-      <title>Transducer</title>
-      <link>https://syouryuumaru.github.io/blog/posts/sample-post/</link>
-      <pubDate>Mon, 16 Aug 2021 07:28:17 +0800</pubDate>
-      
-      <guid>https://syouryuumaru.github.io/blog/posts/sample-post/</guid>
-      <description>A. Pengertian Transducer Apa itu Transducer? Transducer adalah suatu alat yang dapat mengubah suatu bentuk energi ke bentuk energi lainnya. Bentuk-bentuk energi tersebut diantaranya seperti Energi Listrik, Energi Mekanikal, Energi Elektromagnetik, Energi Cahaya, Energi Kimia, Energi Akustik (bunyi) dan Energi Panas. Pada umumnya semua alat yang dapat mengubah atau mengkonversi suatu energi ke energi lainnya dapat disebut sebagai Transducer. B. Jenis-Jenis Transducer Berdasarkan fungsinya, transducer dibagi menjadi 2 jenis yaitu transducer input dan transducer output.</description>
-    </item>
-    
-    <item>
-      <title>Media Transmisi</title>
-      <link>https://syouryuumaru.github.io/blog/posts/hello-world-vno/</link>
-      <pubDate>Fri, 06 Aug 2021 07:28:27 +0800</pubDate>
-      
-      <guid>https://syouryuumaru.github.io/blog/posts/hello-world-vno/</guid>
-      <description>Apa itu Media Transmisi? Media Transmisi adalah sarana untuk mengirimkan data atau informasi dari satu tempat ke tempat lainnya menggunakan suatu media. Media yang membawa data disebut Media Transmisi atau Transmision Medium. Jadi, media transmisi adalah media yang digunakan untuk membawa informasi dari pengirim (transmitter) ke penerima (receiver). Setiap perangkat elektronik mempunyai media transmisi yang berbeda. Contohnya telepon kabel menggunakan kabel sebagai media transmisinya, telepon seluler, siaran televisi, dan radio FM menggunakan frekuensi radio sebagai media transmisinya.</description>
     </item>
     
   </channel>
